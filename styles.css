@@ -1,0 +1,36 @@
+/* palabra clave (keyword) */
+h1{
+    color:rgb(255, 64, 0);
+    border-bottom: 4px solid currentColor; /* usa el mismo color del texto */
+}
+
+h2 {
+    color:rgb(197, 90, 40);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(23, 16, 7);
+}
+
+th {
+    color: rgb(147, 36, 36);
+}
+
+td {
+    color: rgb(210, 61, 61);
+}
+
+
+a {
+    color: rgb(133, 78, 53);
+    border-bottom: 3px;
+    text-decoration: none;
+   
+}
+a:hover {
+    color: rgb(210, 61, 61);
+}
+
+
